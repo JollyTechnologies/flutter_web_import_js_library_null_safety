@@ -1,3 +1,4 @@
+publish_to: none
 name: import_js_library
 description: Import & use javascript libraries in your flutter web projects
 version: 2.0.0-nullsafety.0
